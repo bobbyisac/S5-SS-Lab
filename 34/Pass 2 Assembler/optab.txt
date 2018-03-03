@@ -1,0 +1,4 @@
+LDA	10
+ADD	11
+SUB	12
+STA	13
